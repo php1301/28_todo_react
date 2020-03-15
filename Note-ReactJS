@@ -1,0 +1,67 @@
+======== Buổi 1 =======
+* Component:
+	- Stateless component (là function)
+	- Statefull component (là class)
+	
+* Làm bài tập chia Component 
+
+* Gợi ý Baitap3 
+	Baitap3
+	Header
+	Carousel
+	List-smartphone => ItemProduct
+									ItemProduct
+									ItemProduct
+									ItemProduct
+									
+	List-laptop =>  ItemProduct
+							ItemProduct
+							ItemProduct
+							ItemProduct
+							
+	Promotion
+	
+============== Buoi 2 ==============
+* Rendering Element
+
+* Handling Events
+ 
+* State: chỉ tồn tại trong Statefull component
+	- setState: Cập nhật state
+	=>  Nếu State thay đổi thì hàm render() chạy laị
+	
+* List keys	
+
+============== Buoi 3 ==============
+* Props
+* Lifting State Up
+
+============== Buoi 4 ==============
+* Bài tập giỏ hàng
+	
+============== Buoi 5 ==============
+* Bài tập usermanagement
+
+============== Buoi 6 - 7 ==============
+* Redux
+	- npm install redux --save
+	- npm install react-redux --save
+
+	- Action
+	- Reducer
+		+ Root
+		+ Child
+	- Store
+
+	- mapStateToProps: Chuyển state => props khi kéo dữ liệu từ store về
+	- mapDispatchToProps: dispatch boject len reducer
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
